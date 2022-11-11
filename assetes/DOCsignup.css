@@ -241,6 +241,8 @@ h1 {
     margin-top: 3ch;
     width: 180px;
     margin-left: -2ch;
+    padding: 0;
+    padding-left: 5%;
 } 
 
 form input,label,button{
