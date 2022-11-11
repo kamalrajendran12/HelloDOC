@@ -142,6 +142,7 @@ color: #fff;
 
     .right{
         width: 50vh;
+        
     }
 
     .login{
@@ -158,11 +159,16 @@ color: #fff;
         font-size: small;
     }
 
+    .docimg figure{
+        align-items: center;
+        margin-left: 2.5ch;
+    }
 
     .docimg figure img{
         left: 0;
         width: 40vh;
         height: auto;
+        align-items: center;
     }
 
     .login button {
