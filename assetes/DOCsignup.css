@@ -242,7 +242,7 @@ h1 {
     width: 180px;
     margin-left: -2ch;
     padding: 0;
-    padding-left: 5%;
+    padding-left: 20%;
 } 
 
 form input,label,button{
@@ -262,10 +262,11 @@ input{
 }
 
 .details form input{
+    font-size: 12px;
     width: 180px;
     padding-left: -5ch;
     margin-left: -5ch;
-    font-size: 6px;
+   
 }
 .details form input[type='radio']{
     margin: 0;
@@ -302,7 +303,7 @@ padding: 1ch;
 
 .upld{
     margin-top: 9ch;
-    margin-left: -20ch;
+    margin-left: -18ch;
     width: 280px;
 }
 
@@ -311,13 +312,14 @@ form p{
 }
 
 .upld input[type='checkbox']{
-    margin: 0;
+    margin-left: 5ch;
     padding: 0;
     width: 15px;
 }
 
 .upld label{
-    margin-left: 2ch;
+    font-size: 15px;
+    margin-left: 3ch;
     padding-left: 2ch;
 }
 
